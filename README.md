@@ -3,6 +3,7 @@
 
 # 安装方式
 [【推荐】Greasy Fork直接安装](https://greasyfork.org/zh-CN/scripts/460744-github-%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AE-%E5%85%8B%E9%9A%86%E5%92%8C%E4%B8%8B%E8%BD%BD)
+
 [GitHub下载js](https://raw.githubusercontent.com/SQ8888/SuperGithub/main/SuperGithub.js)
 
 
